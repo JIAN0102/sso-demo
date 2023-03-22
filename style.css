@@ -12,8 +12,8 @@
   --colors-scale11: 104 112 118;
   --colors-scale12: 17 24 28;
   --colors-danger: 240 60 80;
-  --colors-primary: 79 79 184;
-  --colors-primary-light: 98 98 216;
+  --colors-primary: 63 140 255;
+  --colors-primary-light: 102 152 255;
 }
 
 .dark {
@@ -30,6 +30,6 @@
   --colors-scale11: 187 187 187;
   --colors-scale12: 237 237 237;
   --colors-danger: 240 60 80;
-  --colors-primary: 79 79 184;
-  --colors-primary-light: 98 98 216;
+  --colors-primary: 63 140 255;
+  --colors-primary-light: 102 152 255;
 }
