@@ -12,6 +12,9 @@
   --colors-scale11: 104 112 118;
   --colors-scale12: 17 24 28;
   --colors-danger: 240 60 80;
+  --colors-warning: 240 173 78;
+  --colors-amber: 253 210 68;
+  --colors-success: 2 181 2;
   --colors-primary: 63 140 255;
   --colors-primary-light: 102 152 255;
 }
@@ -30,6 +33,9 @@
   --colors-scale11: 187 187 187;
   --colors-scale12: 237 237 237;
   --colors-danger: 240 60 80;
+  --colors-warning: 240 173 78;
+  --colors-amber: 253 210 68;
+  --colors-success: 2 181 2;
   --colors-primary: 63 140 255;
   --colors-primary-light: 102 152 255;
 }
